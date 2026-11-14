@@ -1,0 +1,9 @@
+{
+  "name": "internship/student-management-system",
+  "description": "Admin-only student management portal with Amazon RDS MySQL and S3 integration",
+  "type": "project",
+  "require": {
+    "php": "^8.1",
+    "aws/aws-sdk-php": "^3.300"
+  }
+}

@@ -1,0 +1,19 @@
+
+# Secret configuration
+/config/config.php
+
+# Environment secrets
+.env
+.env.*
+
+# Uploaded student documents
+/uploads/
+/storage/uploads/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+/vendor/
